@@ -1,4 +1,4 @@
-# -Criando-Um-Relatorio-Gerencial-de-Vendas-com-Power-BI
+# Criando-Um-Relatorio-Gerencial-de-Vendas-com-Power-BI
 Criar um relatório mais elaborado com base na sample financials do Power BI. 
 
 <img width="2841" height="807" alt="powerbi_relatorio_gerencial" src="https://github.com/user-attachments/assets/51707eab-e52a-43fe-a5e4-1099c7c5d1dd" />
